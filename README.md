@@ -8,9 +8,9 @@ A simple 2-player Tic Tac Toe game for the console, written in pure Python.
    python3 main.py
    
  X | O | X <br>
---|--|-- <br>
+--|---|-- <br>
  O | X |  <br>
----+---+---<br>
+---+--+--<br>
    |   | O<br>
 
  1 | 2 | 3<br>
