@@ -6,3 +6,15 @@ A simple 2-player Tic Tac Toe game for the console, written in pure Python.
 1. Run the game:
    ```bash
    python3 main.py
+   
+ X | O | X
+---+---+---
+ O | X |  
+---+---+---
+   |   | O
+
+ 1 | 2 | 3
+---+---+---
+ 4 | 5 | 6
+---+---+---
+ 7 | 8 | 9
