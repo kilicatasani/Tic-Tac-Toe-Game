@@ -1,4 +1,4 @@
-# Tic Tac Toe (Python)
+# Tic Tac Toe 
 
 A simple 2-player Tic Tac Toe game for the console, written in pure Python.
 
@@ -7,8 +7,4 @@ A simple 2-player Tic Tac Toe game for the console, written in pure Python.
    ```bash
    python3 main.py
    
-X | O | X
----+---+---
-O | X |
----+---+---
-| | O
+
