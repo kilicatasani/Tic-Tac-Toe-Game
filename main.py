@@ -1,4 +1,4 @@
-# Tic Tac Toe (very simple, 2 players)
+# Tic Tac Toe 
 
 BOARD = [" "] * 9
 WIN_LINES = [
